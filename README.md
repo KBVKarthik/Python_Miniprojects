@@ -1,2 +1,2 @@
-# Dice_roll_game
-Simple dice roll game created using python.
+# Python Miniprojicts
+A repository of all my pthon min-projects.
